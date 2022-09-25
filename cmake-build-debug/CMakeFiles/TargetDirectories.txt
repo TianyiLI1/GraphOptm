@@ -1,0 +1,3 @@
+C:/Users/lzz20/Desktop/CMakeProject1/cmake-build-debug/CMakeFiles/CMakeProject1.dir
+C:/Users/lzz20/Desktop/CMakeProject1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lzz20/Desktop/CMakeProject1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
